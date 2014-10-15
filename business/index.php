@@ -5,7 +5,6 @@
 <?php include("includes/MainNav.html"); ?>
 
 <!-- VIEW START HERE -->
-<h1>testing</h1>
 
 <?php include("views/v-index.html"); ?>
 
