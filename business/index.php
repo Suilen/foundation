@@ -1,4 +1,3 @@
-<!-- INCLUDE HEAD -->
 <?php include("includes/Head.html"); ?>
 
 <!-- INCLUDE primary nav -->
